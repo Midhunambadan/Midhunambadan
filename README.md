@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Midhunambadan
 - 👀 I’m interested in MEAN Stack
-- 🌱 I’m currently learning Advanced Angular.
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me midhunambadan06@gmail.com
 <!---
 Midhunambadan/Midhunambadan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
